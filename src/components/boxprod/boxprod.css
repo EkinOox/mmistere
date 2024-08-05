@@ -1,0 +1,24 @@
+.object-container1{
+    text-shadow: #FC0 1px 0 10px;
+    color: black;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.objet1{
+    display: flex;
+    top: 180px;
+    position: fixed;
+    left: 470px;
+}
+.objet2{
+    display: flex;
+    right: 500px;
+    position: fixed;
+}
+.objet3{
+    display: flex;
+    left: 600px;
+    bottom: 200px;
+    position: fixed;
+}

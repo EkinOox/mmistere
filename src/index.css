@@ -1,0 +1,374 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+
+    color-scheme: light dark;
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #242424;
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.body-background-entre {
+    background-image: url('../src/assets/img/index.png');
+    background-position: center;
+    background-size: cover;
+}
+.body-background-entre-tristan {
+    background-image: url('../src/assets/img/index-tristant.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-amphi {
+    background-image: url('../src/assets/img/amphi.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-amphi-objet {
+    background-image: url('../src/assets/img/amphi-objet.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-amphi-tristan {
+    background-image: url('../src/assets/img/amphi-tristan.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-amphi-tristan-tips {
+    background-image: url('../src/assets/img/amphi-tristan-tips.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-amphi-tristan-objet {
+    background-image: url('../src/assets/img/amphi-tristan-objet.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-boxprod {
+    background-image: url('../src/assets/img/boxprod.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-boxprod-azzura {
+    background-image: url('../src/assets/img/boxprod-azzura.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-boxprod-azzura-tips {
+    background-image: url('../src/assets/img/boxprod-azzura-tips.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-boxprod-tableau {
+    background-image: url('../src/assets/img/boxprod-tableau.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-sallereseau {
+    background-image: url('../src/assets/img/sallereseau.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-sallereseau-azzura {
+    background-image: url('../src/assets/img/sallereseau-azzura.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-sallereseau-azzura-tips {
+    background-image: url('../src/assets/img/sallereseau-azzura-tips.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-sallereseau-tableau {
+    background-image: url('../src/assets/img/sallereseau-tableau.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-bu {
+    background-image: url('../src/assets/img/bu.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-bu-livre{
+    background-image: url('../src/assets/img/bu-livre.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-bu-azzura{
+    background-image: url('../src/assets/img/bu-azzura.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-terrasse {
+    background-image: url('../src/assets/img/terrasse.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-terrasse-jolan {
+    background-image: url('../src/assets/img/terrasse-jolan.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-terrasse-jolan-tips {
+    background-image: url('../src/assets/img/terrasse-jolan-tips.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-salle1 {
+    background-image: url('../src/assets/img/salle1.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-salle1-jeux {
+    background-image: url('../src/assets/img/salle1-jeux.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-salle1-ines {
+    background-image: url('../src/assets/img/salle1-ines.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-salle1-ines-tips {
+    background-image: url('../src/assets/img/salle1-ines-tips.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-salle2 {
+    background-image: url('../src/assets/img/salle2.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-salle2-jeux {
+    background-image: url('../src/assets/img/salle2-jeux.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-salle2-eva {
+    background-image: url('../src/assets/img/salle2-eva.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-salle2-eva-tips {
+    background-image: url('../src/assets/img/salle2-eva-tips.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-salle3 {
+    background-image: url('../src/assets/img/salle3.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-salle3-jeux {
+    background-image: url('../src/assets/img/salle3-jeux.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-salle3-kyllian {
+    background-image: url('../src/assets/img/salle3-kyllian.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-salle3-kyllian-tips {
+    background-image: url('../src/assets/img/salle3-kyllian-tips.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-cafeteria {
+    background-image: url('../src/assets/img/cafeteria.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-cafeteria-jeux {
+    background-image: url('../src/assets/img/cafeteria-jeux.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-cafeteria-ines-tips {
+    background-image: url('../src/assets/img/cafeteria-ines-tips.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-distributeur {
+    background-image: url('../src/assets/img/distributeur.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-distributeur-jeux {
+    background-image: url('../src/assets/img/distributeur-jeux.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-distributeur-eva-tips {
+    background-image: url('../src/assets/img/distributeur-eva-tips.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-cafe {
+    background-image: url('../src/assets/img/cafe.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-cafe-jeux {
+    background-image: url('../src/assets/img/cafe-jeux.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-cafe-kyllian-tips {
+    background-image: url('../src/assets/img/cafe-kyllian-tips.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-background-servicetechnique {
+    background-image: url('../src/assets/img/servicetechnique.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}.body-background-salleprof {
+    background-image: url('../src/assets/img/salleprof.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}.body-background-plateau {
+    background-image: url('../src/assets/img/plateau.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}.body-background-salle3-tristan {
+    background-image: url('../src/assets/img/salle3-tristan.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}.body-background-profil-dev {
+    background-image: url('../src/assets/img/profil-dev.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}.body-background-fin {
+    background-image: url('../src/assets/img/fin.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+a {
+    font-weight: 500;
+    color: #4D1D72;
+    text-decoration: inherit;
+}
+
+a:hover {
+    color: #4D1D72;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+}
+
+h1 {
+    font-size: 3.2em;
+    line-height: 1.1;
+}
+
+button {
+    border-radius: 30px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    background: white;
+    color: #4D1D72;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.7s ease-in;
+    text-transform: uppercase;
+    min-width: 200px;
+}
+.button-other {
+    border-radius: 30px;
+    border: 1px solid white;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    background: transparent;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.7s ease-in;
+    min-width: 200px;
+    text-transform: uppercase;
+}
+
+button:hover {
+    transition: all 0.7s ease-in-out;
+    background: linear-gradient(to right, #4D1D72, #000000);
+    color: white;
+}
+button-other:hover {
+    transition: all 0.7s ease-in-out;
+    color: #4D1D72;
+    border-color: #4D1D72;
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        color: #213547;
+        background-color: #ffffff;
+    }
+
+    a:hover {
+        color: #747bff;
+    }
+}

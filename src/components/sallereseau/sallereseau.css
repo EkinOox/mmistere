@@ -1,0 +1,18 @@
+.objet4{
+    display: flex;
+    top: 180px;
+    position: fixed;
+    left: 550px;
+}
+.objet5{
+    display: flex;
+    right: 550px;
+    top: 300px;
+    position: fixed;
+}
+.objet6{
+    display: flex;
+    left: 600px;
+    bottom: 350px;
+    position: fixed;
+}

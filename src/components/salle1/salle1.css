@@ -1,0 +1,23 @@
+.num1 {
+    display: flex;
+    top: 620px;
+    position: fixed;
+    left: 480px;
+    font-size: 50px;
+}
+
+.num2 {
+    display: flex;
+    top: 620px;
+    position: fixed;
+    left: 755px;
+    font-size: 50px;
+}
+
+.num3 {
+    display: flex;
+    top: 620px;
+    position: fixed;
+    left: 1030px;
+    font-size: 50px;
+}

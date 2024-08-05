@@ -1,0 +1,18 @@
+.lieu1{
+    display: flex;
+    top: 500px;
+    position: fixed;
+    left: 400px;
+}
+.lieu2{
+    display: flex;
+    top: 500px;
+    position: fixed;
+    left: 700px;
+}
+.lieu3{
+    display: flex;
+    top: 500px;
+    position: fixed;
+    left: 1050px;
+}

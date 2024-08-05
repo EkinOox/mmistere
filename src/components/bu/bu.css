@@ -1,0 +1,24 @@
+.objet7{
+    display: flex;
+    top: 360px;
+    position: fixed;
+    left: 680px;
+    font-size: 1.5rem;
+    transform: rotate(-90deg);
+}
+.objet8{
+    display: flex;
+    right: 960px;
+    top: 350px;
+    position: fixed;
+    font-size: 1.5rem;
+    transform: rotate(-90deg);
+}
+.objet9{
+    display: flex;
+    left: 960px;
+    bottom: 350px;
+    position: fixed;
+    font-size: 1.5rem;
+    transform: rotate(-90deg);
+}

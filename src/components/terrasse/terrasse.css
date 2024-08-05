@@ -1,0 +1,13 @@
+.popup-body2{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.img-popup{
+    width: 150px;
+    object-fit: cover;
+}
+.img-popup:hover{
+    border: 5px solid #4D1D72;
+    cursor: pointer;
+}
